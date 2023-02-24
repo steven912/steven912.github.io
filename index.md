@@ -1,5 +1,5 @@
 ---
-title: Elements
+title: Home
 aside: true
 ---
 
