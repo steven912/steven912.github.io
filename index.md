@@ -1,10 +1,7 @@
 ---
-title: Categories
-layout: categories
-excerpt: "Category index"
+title: Elements
 aside: true
 ---
-
 
 
 <!-- ---
