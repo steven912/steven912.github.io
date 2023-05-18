@@ -121,15 +121,13 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Home
-  url: /
 - title: Projects
   url: /projects/
 - title: WTP
   url: /wtp/
 - title: Contact
   url: /contact/
-- title: DELETE_LEFT||
+- title: deleteToTheRight
   url: 
 - title: Elements
   url: /elements/
