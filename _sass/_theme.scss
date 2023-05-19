@@ -2,7 +2,7 @@
 body {
   background: $backgroundColour;
   color: $bodyColour;
-  height: 150%;
+  height: 100%;
   display: flex;
   @include flex-direction(column);
   overflow-x: hidden;
@@ -52,7 +52,7 @@ body {
   background-position: center;
   .container {
     min-height: 35vh;
-    max-width: 60%;
+    max-width: 160%;
     @include flex-direction(column);
     @include justify-content(center);
   }
