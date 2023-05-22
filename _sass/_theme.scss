@@ -39,10 +39,10 @@ body {
 
 .header .nav {
   display: flex;
-//   flex-direction: column-reverse;
-//   align-items: flex-end;
-//   justify-content: flex-end;
-//   overflow: hidden;
+  flex-direction: column-reverse;
+  align-items: flex-end;
+  justify-content: flex-end;
+  overflow: hidden;
 }
 
 .feature {
