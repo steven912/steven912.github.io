@@ -2,7 +2,8 @@
 body {
   background: $backgroundColour;
   color: $bodyColour;
-  height: 100%;
+//   height: 100%;
+  height: 20%;
   display: flex;
   @include flex-direction(column);
   overflow-x: hidden;
