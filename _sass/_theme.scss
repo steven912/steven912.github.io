@@ -39,15 +39,15 @@ body {
 
 .header .nav {
   display: flex;
-  flex-direction: column-reverse;
-  align-items: flex-end;
-  justify-content: flex-end;
-  overflow: hidden;
+//   flex-direction: column-reverse;
+//   align-items: flex-end;
+//   justify-content: flex-end;
+//   overflow: hidden;
 }
 
 .feature {
-//   padding-bottom: .4rem;
-//   margin-bottom: 1.6rem;
+  padding-bottom: .4rem; // thse control padding from the content of the page and the things above it
+  margin-bottom: 1.6rem;
   text-align: center;
   background: $featureBackgroundColour;
   background-size: cover;
